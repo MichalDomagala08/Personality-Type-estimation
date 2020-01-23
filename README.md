@@ -10,15 +10,14 @@ Proszę skopiować repozytorium do folderu docelowego Anakondy po czym otworzyć
 
 Użycie:
 
-W przypadku nie posiadania bibliotek yellowbrick oraz
+ - W przypadku nie posiadania bibliotek yellowbrick oraz
 imblearn, należy otworzyć dokument Projekt_Analiza_v2
 ponieważ zawiera on definicje koniecznych funkcji
 
-
-notebooki zawierają najlepsze modele, wraz z eksploracją wyników
+ - notebooki zawierają najlepsze modele, wraz z eksploracją wyników
 oraz wyjaśnieniami użycia oraz wizualizacją.
 
-notebooki w których przeprowadzano gridsearch to
+ - notebooki w których przeprowadzano gridsearch to
 Grid_1 oraz Grid_PCA
 
-Wyniki z Gridsearchu są zawarte w dokumencie Wyniki_AD
+ - Wyniki z Gridsearchu są zawarte w dokumencie Wyniki_AD
