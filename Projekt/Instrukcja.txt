@@ -6,6 +6,8 @@ Proszę sklonować repozytorium do folderu anacondy
 Projekt wraz z opisami znajduje się w notebooku
 Projekt_Analiza lub Projekt_Analiza_v2
 
+Po otworzeniu pliku, należy przenieść plik mbti_1.csv do niechronionej lokalizajci (np.downloads) I doprecyzować ścieżkę pliku!!!
+
 Użycie:
 
 W przypadku nie posiadania bibliotek yellowbrick oraz
