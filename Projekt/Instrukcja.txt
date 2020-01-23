@@ -1,0 +1,21 @@
+Instrukcja
+
+Instalacja:
+
+Proszê sklonowaæ repozytorium do folderu anacondy
+Projekt wraz z opisami znajduje siê w dokumencie
+Projekt_Analiza lub Projekt_Analiza_v2
+
+U¿ycie:
+
+W przypadku nie posiadania bibliotek yellowbrick oraz
+imblearn, nale¿y otworzyæ dokument Projekt_Analiza_v2
+poniewa¿ zawiera on definicje koniecznych funkcji
+
+
+Dokument zawiera najlepsze modele, wraz z eksploracj¹ wyników
+oraz wyjaœnieniami u¿ycia oraz wizualizacj¹.
+
+notebooki w których przeprowadzano gridsearch to
+Grid_1 oraz Grid_PCA
+
