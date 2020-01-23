@@ -7,6 +7,9 @@ Wymagania (niekoniecznie - mozna obejsc):
 
 Proszę skopiować repozytorium do folderu docelowego Anakondy po czym otworzyć pliki Analiza_Danych i Analiza_danych_v2
 
+**Po otworzeniu pliku, należy przenieść plik mbti_1.csv do niechronionej lokalizajci (np.downloads)
+I doprecyzować ścieżkę pliku!!!**
+
 
 Użycie:
 
